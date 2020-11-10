@@ -11,7 +11,7 @@ import sys
 
 from click import confirm
 
-import pyicloud
+import pyicloud_ipd
 from . import utils
 
 
